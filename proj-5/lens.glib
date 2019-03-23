@@ -1,0 +1,20 @@
+##OpenGL GLIB
+Ortho -5. 5.   -5. 5.
+LookAt 0 0 2  0 0 0  0 1 0
+
+Texture2D 5 img.bmp
+
+Vertex   lens.vert
+Fragment lens.frag
+Program  lens						\
+	uScenter <0. .5 1.>				\
+	uTcenter <0. .5 1.>				\
+	uDs      <0.01 .1 .5>				\
+	uDt      <0.01 .1 .5>				\
+	uMagFactor <.0 0. 0.9>				\
+	uRotAngle <-3.14159 0. 3.14159>			\
+	uSharpFactor <0. 1. 5.>				\
+	uImageUnit  5					\
+	uRadius <0. 0.1 0.5>
+
+QuadXY .2 5.

@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(327): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(328): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(332): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(333): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(334): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(335): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mojia\documents\visual studio 2015\projects\457\457\main.cpp(343): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  457.vcxproj -> C:\Users\mojia\Documents\Visual Studio 2015\Projects\457\Debug\457.exe
+  457.vcxproj -> C:\Users\mojia\Documents\Visual Studio 2015\Projects\457\Debug\457.pdb (Partial PDB)
